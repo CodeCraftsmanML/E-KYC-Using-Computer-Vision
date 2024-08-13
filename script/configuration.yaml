@@ -1,0 +1,8 @@
+artifacts:
+  face_recognition_model_name: deepface
+  haarcascade_file_path: "S:\\Machine Learning\\Siddharthan Playlist\\KYC Final\\haarcascade_frontalface_default.xml"
+  intermediate_directory_path: "S:\\Machine Learning\\Siddharthan Playlist\\KYC Final\\Data\\Processed_image"
+  contour_image_file_name: "my_contour_id.jpg"
+  face_image_path_1: "S:\\Machine Learning\\Siddharthan Playlist\\KYC Final\\Data\\faces\\extracted_face.jpg"
+  face_image_path_2: "S:\\Machine Learning\\Siddharthan Playlist\\KYC Final\\Data\\faces\\extracted_face.jpg"
+
