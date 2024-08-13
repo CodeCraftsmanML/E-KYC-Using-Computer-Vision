@@ -71,11 +71,13 @@ To bring standardization and flexibility to the application, we utilize a config
 The combination of detailed logging and a parameterized configuration file enhances the application’s resilience and adaptability, making it easier to manage and evolve over time.
 
 License
-This project is licensed under the LICENSE file.
+This project is licensed under the [MIT License](LICENSE).
+
 
 Contact Information
 For any questions or suggestions, please contact:
 
 Email: karanmakwana@gmail.com
 GitHub: https://github.com/CodeCraftsmanML
+
 
